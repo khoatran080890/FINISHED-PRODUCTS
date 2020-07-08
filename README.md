@@ -11,6 +11,4 @@ App + Game + Project JOINED
 
 ---- UNISCORMVIEW ----
 
-<img width="250" src="https://user-images.githubusercontent.com/46292866/86893117-5dd1b380-c12b-11ea-90fb-d574dd1a597c.jpg">
-<img width="250" src="https://user-images.githubusercontent.com/46292866/86893122-5f02e080-c12b-11ea-8602-72969d1c64e0.jpg">
-<img width="250" src="https://user-images.githubusercontent.com/46292866/86893123-5f9b7700-c12b-11ea-9f40-01540e4b711e.jpg">
+<img width="250" src="https://user-images.githubusercontent.com/46292866/86893117-5dd1b380-c12b-11ea-90fb-d574dd1a597c.jpg"><img width="250" src="https://user-images.githubusercontent.com/46292866/86893122-5f02e080-c12b-11ea-8602-72969d1c64e0.jpg"><img width="250" src="https://user-images.githubusercontent.com/46292866/86893123-5f9b7700-c12b-11ea-9f40-01540e4b711e.jpg">
