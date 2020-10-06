@@ -16,5 +16,4 @@ App + Game + Project JOINED
 
 --- MAZE ESCAPE ---
 
-<img width="250" alt="mazeescape_2" src="https://user-images.githubusercontent.com/46292866/95209391-804f9780-0814-11eb-822a-f000a15949b0.png">
-<img width="250" alt="mazeescape_1" src="https://user-images.githubusercontent.com/46292866/95210046-403ce480-0815-11eb-9d0c-bbdf42df42ae.png">
+<img width="250" alt="mazeescape_2" src="https://user-images.githubusercontent.com/46292866/95209391-804f9780-0814-11eb-822a-f000a15949b0.png"><img width="250" alt="mazeescape_1" src="https://user-images.githubusercontent.com/46292866/95210046-403ce480-0815-11eb-9d0c-bbdf42df42ae.png">
